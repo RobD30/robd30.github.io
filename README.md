@@ -5,8 +5,11 @@ This is my take on the Neighborhood Map project from the Udacity Full-Stack Nano
 ### Run
 
 This is a batteries included, ES6 compliant JavaScript app that shows you around some of the
-best local "secret" places. Simply open the ```index.html``` in your favorite browser. I hope you enjoy this app and if you're ever in Reno feel free to
-visit these amazing places.
+best local "secret" places. Follow these simple steps to enjoy some of Reno's Secret places.
+1. Run on ```localhost:8080```
+    * In your terminal create a local server ```python -m http.server 8080```
+    * Run the open the ```index.html``` on the local server
+2. For even easier use simple go to robd30.github.io  to enjoy a live version of the app.
 
 ### Some Suggestions
 
