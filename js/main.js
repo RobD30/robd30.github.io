@@ -123,8 +123,7 @@
                     this.formattedPhone = formatPhone(this.phone);
 
                 }).catch((err) => {
-                    let currentErr = console.log('Oops This totally is not going to work.');
-                    // Object.values(currentErr).forEach(errorHandler);
+                    let currentErr = alert('The Api is not responding.')
                 });
 
                 this.marker = new google.maps.Marker({
