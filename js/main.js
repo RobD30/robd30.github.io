@@ -123,8 +123,8 @@
                     this.formattedPhone = formatPhone(this.phone);
 
                 }).catch((err) => {
-                    let currentErr = err.responseJSON.meta;
-                    Object.values(currentErr).forEach(errorHandler);
+                    let currentErr = console.log('Oops This totally is not going to work.');
+                    // Object.values(currentErr).forEach(errorHandler);
                 });
 
                 this.marker = new google.maps.Marker({
