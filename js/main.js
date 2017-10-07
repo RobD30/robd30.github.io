@@ -109,6 +109,7 @@
                 this.visible = ko.observable(true);
 
                 axios.get(this.foursquareURL).then((data) => {
+                    throw new Error('Error');
                     data = JSON.parse(data.request.responseText);
                     let results = data.response.venues[0];
                     if (!results) {
@@ -123,8 +124,7 @@
                     this.formattedPhone = formatPhone(this.phone);
 
                 }).catch((err) => {
-                    let currentErr = err.responseJSON.meta;
-                    Object.values(currentErr).forEach(errorHandler);
+                    let currentErr = alert("This is an error.");
                 });
 
                 this.marker = new google.maps.Marker({
