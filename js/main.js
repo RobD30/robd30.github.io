@@ -2,8 +2,8 @@
 /* globals axios, ko, google */
 (function mainJS(global, doc, axios) {
     "use strict";
-    const CLIENT_ID = "ZKXLXRMMYMQEZHWAHNWFVNA4LEPMKCTL4XGCZPANQHQBXEPZ",
-        CLIENT_SECRET = "ZMJX1RHMRYIEIXY5VEKDOYW5TNWPCAFA0ONJSRU1OPJ0TAHA",
+    const CLIENT_ID = "5WF5BO5335BY4HFD3DCR0JAYBMRRC5YQ1BX1HXFCWPC5H3CU",
+        CLIENT_SECRET = "N345RUTXSA0YZV1C4KXQRUE2H3HUCCVGUYGYOEEPFK3V0AEI",
         US_PHONE_LEN = 10,
         ERROR_BOX = doc.querySelector('#dangerBox'),
         MAP_DIV = doc.querySelector("#map"),
@@ -212,7 +212,7 @@
             }
 
             get foursquareURL() {
-                return `https://api.foursquare.com/v2/venues/search?ll=${this.lat},${this.long}&client_id=${5WF5BO5335BY4HFD3DCR0JAYBMRRC5YQ1BX1HXFCWPC5H3CU}&client_secret=${N345RUTXSA0YZV1C4KXQRUE2H3HUCCVGUYGYOEEPFK3V0AEI}&v=20160118&query=${this.name}`;
+                return `https://api.foursquare.com/v2/venues/search?ll=${this.lat},${this.long}&client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}&v=20160118&query=${this.name}`;
             }
         },
         AppViewModel = class AppViewModel {
