@@ -123,6 +123,7 @@
                     this.formattedPhone = formatPhone(this.phone);
 
                 }).catch((err) => {
+                    "use strict";
                     let currentErr = alert("This is an error.");
                 });
 
