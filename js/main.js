@@ -279,7 +279,7 @@
     };
 
     global.errorHandling = (err) => {
-        errorHandler(err);
+        errorHandler("This is an error.");
     };
 
 
