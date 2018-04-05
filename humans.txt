@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+    rob -- Full-Stack Developer
+
+# THANKS
+
+    Ski/Board Day Photo by Alexander McFeron on Unsplash
+
+    MultiMath Photo by Antoine Dautry on Unsplash
+
+    Bulletin Board Photo by Photo by G. Crescoli on Unsplash
+
+    Jumbotron Photo by Alex Iby on Unsplash
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Bootstrap 4
