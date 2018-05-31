@@ -1,371 +1,230 @@
 <!doctype html>
 <html class="no-js" lang="">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <link rel="manifest" href="site.webmanifest">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"
-            integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl"
-            crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
     <!-- Place favicon.ico in the root directory -->
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-          crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/normalize.css">
     <link href="https://fonts.googleapis.com/css?family=Mina:400,700" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css">
 </head>
+
 <body>
-<!--[if lte IE 9]>
+    <!--[if lte IE 9]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
     href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
 <![endif]-->
-
-<!-- Add your site or application content here -->
-<nav class="navbar navbar-dark navbar-expand-sm mb-2 sticky-top">
-    <div class="container">
-
-        <a class="navbar-brand" href="#">rob.dev/about</a>
-
-        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
-                data-target="#myNav"
-                aria-controls="myNav" aria-expanded="false" aria-label="Toggle Navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="myNav">
-
-            <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link" href="index.html">Home</a>
-
-                <div class="dropdown">
-                    <a class="nav-item nav-link dropdown-toggle" href="#" data-toggle="dropdown"
-                       id="projectsDropdown" aria-haspopup="true" aria-expanded="false">
+    <!-- Add your site or application content here -->
+    <nav class="navbar navbar-dark navbar-expand-sm mb-2 sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">rob.dev/about</a>
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#myNav" aria-controls="myNav" aria-expanded="false" aria-label="Toggle Navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="myNav">
+                <div class="navbar-nav ml-auto">
+                    <a class="nav-item nav-link" href="index.html">Home</a>
+                    <div class="dropdown">
+                        <a class="nav-item nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="projectsDropdown" aria-haspopup="true" aria-expanded="false">
                         Certifications
                     </a>
-                    <div class="dropdown-menu">
-                        <a href="#projectOne" class="dropdown-item">Udacity.com</a>
-                        <a href="#projectTwo" class="dropdown-item">Lynda.com</a>
-                        <!--<a href="#projectThree" class="dropdown-item">Udemy.com</a>-->
-                    </div>
-                </div>
-                <a href="#" class="nav-item nav-link active nav-dark">About</a>
-
-            </div> <!-- navbar-nav -->
-        </div> <!-- collapse -->
-    </div><!-- container -->
-</nav> <!-- navbar -->
-
-<div class="jumbotron jumbotron-fluid text-center">
-    <div class="container">
-        <h1 class="display-4">Web Development</h1>
-        <p class="lead">
-            Creating beautiful functional sites through the use of modern responsive design.
-        </p>
-        <hr class="my-4">
-
-        <!-- Button trigger modal -->
-        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#jumbotronModal">
-            Nanodegree
-        </button>
-
-        <!-- Modal -->
-        <div class="modal fade" id="jumbotronModal" tabindex="-1" role="dialog"
-             aria-labelledby="jumbotronModalLabel"
-             aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="jumbotronModalLabel">Full-Stack Nanodegree</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <div class="embed-responsive embed-responsive-1by1">
-                            <embed src="pdf/udacity_nanodegree.pdf" alt="pdf" width="600" height="500"
-                                   pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+                        <div class="dropdown-menu">
+                            <a href="#projectOne" class="dropdown-item">Udacity.com</a>
+                            <a href="#projectTwo" class="dropdown-item">Lynda.com</a>
+                            <!--<a href="#projectThree" class="dropdown-item">Udemy.com</a>-->
                         </div>
                     </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <a href="#" class="nav-item nav-link active nav-dark">About</a>
+                </div>
+                <!-- navbar-nav -->
+            </div>
+            <!-- collapse -->
+        </div>
+        <!-- container -->
+    </nav>
+    <!-- navbar -->
+    <div class="jumbotron jumbotron-fluid text-center">
+        <div class="container">
+            <h1 class="display-4">Web Development</h1>
+            <p class="lead">
+                Creating beautiful functional sites through the use of modern responsive design.
+            </p>
+            <hr class="my-4">
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#jumbotronModal">
+                Nanodegree
+            </button>
+            <!-- Modal -->
+            <div class="modal fade" id="jumbotronModal" tabindex="-1" role="dialog" aria-labelledby="jumbotronModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="jumbotronModalLabel">Full-Stack Nanodegree</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="embed-responsive embed-responsive-1by1">
+                                <embed src="pdf/udacity_nanodegree.pdf" alt="pdf" width="600" height="500" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
                     </div>
                 </div>
-            </div> <!-- modal-dialog -->
-        </div> <!-- modal -->
-
+                <!-- modal-dialog -->
+            </div>
+            <!-- modal -->
+        </div>
     </div>
-</div> <!-- jumbotron -->
-
-<div class="container">
-
-    <h1>About</h1>
-
-    <div class="row">
-
-        <figure class="col figure mb-2 tophat" id="projectOne">
-            <a href="https://github.com/RobD30/Typescript-MultiMath" target="_blank">
+    <!-- jumbotron -->
+    <div class="container">
+        <h1>About</h1>
+        <div class="row">
+            <figure class="col figure mb-2 tophat" id="projectOne">
+                <a href="https://github.com/RobD30/Typescript-MultiMath" target="_blank">
                 <img class="figure-img mx-auto rounded-top img-responsive"
                      src="img/antoine-dautry-428780-unsplash.jpg"
                      alt="Project 2">
             </a>
-            <figcaption class="figure-caption"><strong>Udacity</strong></figcaption>
-            <p>
-                All certificates are current.
-            </p>
-            <div class="dropdown show">
-
-                <button class="btn dropdown-toggle cert" role="button" id="udacityDropdown"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Certifications
-                </button>
-
-                <div class="dropdown-menu" aria-labelledby="udacityDropdown">
-
-                    <!-- udacity dropdown item -->
-                    <a href="pdf/udacity_nanodegree.pdf" class="dropdown-item">
+                <figcaption class="figure-caption"><strong>Udacity</strong></figcaption>
+                <p>
+                    All certificates are current.
+                </p>
+                <div class="dropdown show">
+                    <button class="btn dropdown-toggle cert" role="button" id="udacityDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Certifications
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="udacityDropdown">
+                        <!-- udacity dropdown item -->
+                        <a href="pdf/udacity_nanodegree.pdf" class="dropdown-item">
                         <strong>Full Stack Developer Nanodegree</strong>
-                    </a> <!-- dropdown-item -->
-
-                </div> <!-- dropdown-menu -->
-            </div> <!-- dropdown -->
-
-        </figure> <!-- col -->
-
-        <figure class="col figure mb-2 tophat" id="projectTwo">
-            <a href="https://github.com/RobD30/ReactJS-Ski-Days" target="_blank">
+                    </a>
+                        <!-- dropdown-item -->
+                    </div>
+                    <!-- dropdown-menu -->
+                </div>
+                <!-- dropdown -->
+            </figure>
+            <!-- col -->
+            <figure class="col figure mb-2 tophat" id="projectTwo">
+                <a href="https://github.com/RobD30/ReactJS-Ski-Days" target="_blank">
                 <img class="figure-img mx-auto rounded-top img-responsive"
                      src="img/alexander-mcferon-599191-unsplash.jpg" alt="Project 1">
             </a>
-            <figcaption class="figure-caption"><strong>lynda.com</strong></figcaption>
-            <p>
-                All certificates are current.
-            </p>
-            <div class="dropdown show">
-
-                <button class="btn dropdown-toggle cert" role="button" id="lyndaDropdown"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Certifications
-                </button>
-
-                <div class="dropdown-menu" aria-labelledby="lyndaDropdown">
-                    <a class="dropdown-item" href="#lyndaHTMLModal"
-                       data-toggle="modal"><strong>HTML</strong></a>
-                    <a class="dropdown-item" href="#lyndaCSSModal"
-                       data-toggle="modal"><strong>CSS</strong></a>
-                    <a class="dropdown-item" href="#lyndaJSModal"
-                       data-toggle="modal"><strong>JavaScript</strong></a>
-                    <a class="dropdown-item" href="#lyndaPyModal"
-                       data-toggle="modal"><strong>Python</strong></a>
-                    <a class="dropdown-item" href="#lyndaUIModal"
-                       data-toggle="modal"><strong>UI &sol; UX</strong></a>
-                </div> <!-- dropdown-menu -->
-
-                <!-- Modal -->
-                <div class="modal fade" id="lyndaHTMLModal" tabindex="-1" role="dialog"
-                     aria-labelledby="lyndaHTMLModalLabel"
-                     aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="lyndaHTMLModalLabel">HTML</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="embed-responsive embed-responsive-1by1">
-                                    <embed src="pdf/lynda/HTMLEssentialTraining_lynda.pdf" alt="pdf">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close
-                                    </button>
-                                </div>
-                            </div> <!-- modal-body -->
-                        </div> <!-- modal-content -->
-                    </div> <!-- lynda-html-modal -->
-                </div> <!-- modal-dialog -->
-
-                <div class="modal fade" id="lyndaCSSModal" tabindex="-1" role="dialog"
-                     aria-labelledby="lyndaCSSModalLabel"
-                     aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="lyndaCSSModalLabel">CSS</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="embed-responsive embed-responsive-1by1">
-                                    <embed src="pdf/lynda/CSSJoined_lynda.pdf" alt="pdf">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close
-                                    </button>
-                                </div>
-                            </div> <!-- modal-body -->
-                        </div> <!-- modal-content -->
-                    </div> <!-- lynda-css-modal -->
-                </div> <!-- modal-dialog -->
-
-                <div class="modal fade" id="lyndaJSModal" tabindex="-1" role="dialog"
-                     aria-labelledby="lyndaJSModalLabel"
-                     aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="lyndaJSModalLabel">JavaScript</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="embed-responsive embed-responsive-1by1">
-                                    <embed src="pdf/lynda/JSJoined_lynda.pdf" alt="pdf">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close
-                                    </button>
-                                </div>
-                            </div> <!-- modal-body -->
-                        </div> <!-- modal-content -->
-                    </div> <!-- lynda-js-modal -->
-                </div> <!-- modal-dialog -->
-
-                <div class="modal fade" id="lyndaPyModal" tabindex="-1" role="dialog"
-                     aria-labelledby="lyndaPyModalLabel"
-                     aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="lyndaPyModalLabel">JavaScript</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="embed-responsive embed-responsive-1by1">
-                                    <embed src="pdf/lynda/PyJoined_lynda.pdf" alt="pdf">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close
-                                    </button>
-                                </div>
-                            </div> <!-- modal-body -->
-                        </div> <!-- modal-content -->
-                    </div> <!-- lynda-py-modal -->
-                </div> <!-- modal-dialog -->
-
-                <div class="modal fade" id="lyndaUIModal" tabindex="-1" role="dialog"
-                     aria-labelledby="lyndaUIModalLabel"
-                     aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="lyndaUIModalLabel">UI&sol;UX</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <div class="embed-responsive embed-responsive-1by1">
-                                    <embed src="pdf/lynda/UI_UXJoined_lynda.pdf" alt="pdf">
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close
-                                    </button>
-                                </div>
-                            </div> <!-- modal-body -->
-                        </div> <!-- modal-content -->
-                    </div> <!-- lynda-ui-modal -->
-                </div> <!-- modal-dialog -->
-
-            </div> <!-- dropdown -->
-        </figure> <!-- col -->
-
-        <!--to be added upon completion of udemy certs-->
-
-        <!--<figure class="col figure mb-2 tophat" id="projectThree">-->
+                <figcaption class="figure-caption"><strong>lynda.com</strong></figcaption>
+                <p>
+                    All certificates are current.
+                </p>
+                <div class="dropdown show">
+                    <button class="btn dropdown-toggle cert" role="button" id="lyndaDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Certifications
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="lyndaDropdown">
+                        <a href="pdf/lynda/HTMLEssentialTraining_lynda.pdf" class="dropdown-item">
+                        <strong>HTML</strong>
+                    </a>
+                        <!-- dropdow-item -->
+                        <a href="pdf/lynda/CSSJoined_lynda.pdf" class="dropdown-item">
+                       <strong>CSS</strong>
+                   </a>
+                        <!-- dropdow-item -->
+                        <a href="pdf/lynda/JSJoined_lynda.pdf" class="dropdown-item">
+                       <strong>JavaScript</strong>
+                   </a>
+                        <!-- dropdow-item -->
+                        <a href="pdf/lynda/PyJoined_lynda.pdf" class="dropdown-item">
+                       <strong>Python</strong>
+                   </a>
+                        <!-- dropdow-item -->
+                        <a href="pdf/lynda/UI_UXJoined_lynda.pdf" class="dropdown-item">
+                       <strong>UI &sol; UX</strong>
+                   </a>
+                        <!-- dropdow-item -->
+                    </div>
+                    <!-- dropdown-menu -->
+                </div>
+                <!-- dropdown -->
+            </figure>
+            <!-- col -->
+            <!--to be added upon completion of udemy certs-->
+            <!--<figure class="col figure mb-2 tophat" id="projectThree">-->
             <!--<a href="https://github.com/RobD30/ReactJS-Bulletin-Board" target="_blank">-->
-                <!--<img class="figure-img mx-auto rounded-top" src="img/g-crescoli-468248-unsplash.jpg"-->
-                     <!--alt="Project 3">-->
+            <!--<img class="figure-img mx-auto rounded-top" src="img/g-crescoli-468248-unsplash.jpg"-->
+            <!--alt="Project 3">-->
             <!--</a>-->
             <!--<figcaption class="figure-caption"><strong>Udemy</strong></figcaption>-->
             <!--<p>-->
-                <!--Coming Soon-->
+            <!--Coming Soon-->
             <!--</p>-->
             <!--<div class="dropdown show">-->
-
-                <!--<button class="btn dropdown-toggle cert disabled" role="button" id="udemyDropdown"-->
-                        <!--data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
-                    <!--Certifications-->
-                <!--</button>-->
-
-                <!--<div class="dropdown-menu" aria-labelledby="udemyDropdown">-->
-                    <!--<a class="dropdown-item" href="#">Action</a>-->
-                    <!--<a class="dropdown-item" href="#">Another action</a>-->
-                    <!--<a class="dropdown-item" href="#">Something else here</a>-->
-                <!--</div>-->
+            <!--<button class="btn dropdown-toggle cert disabled" role="button" id="udemyDropdown"-->
+            <!--data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+            <!--Certifications-->
+            <!--</button>-->
+            <!--<div class="dropdown-menu" aria-labelledby="udemyDropdown">-->
+            <!--<a class="dropdown-item" href="#">Action</a>-->
+            <!--<a class="dropdown-item" href="#">Another action</a>-->
+            <!--<a class="dropdown-item" href="#">Something else here</a>-->
+            <!--</div>-->
             <!--</div> &lt;!&ndash; dropdown &ndash;&gt;-->
-        <!--</figure> &lt;!&ndash; col &ndash;&gt;-->
-
-
-    </div> <!-- row -->
-</div> <!-- container -->
-
-<footer class="footer">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col">
-                <p>
-                    Copywrite Stuff Goes here
-                </p>
-            </div>
-            <div class="col">
-                <a href="https://goo.gl/j5pxZQ" title="LinkedIn" target="_blank">
+            <!--</figure> &lt;!&ndash; col &ndash;&gt;-->
+        </div>
+        <!-- row -->
+    </div>
+    <!-- container -->
+    <footer class="footer">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    <p>
+                        Copywrite rob.dev 2018
+                    </p>
+                </div>
+                <div class="col">
+                    <a href="https://goo.gl/j5pxZQ" title="LinkedIn" target="_blank">
                     <i class="fab fa-linkedin fa-2x"></i>
                 </a>
-                <a href="https://goo.gl/YXTrXf" title="GitHub" target="_blank">
+                    <a href="https://goo.gl/YXTrXf" title="GitHub" target="_blank">
                     <i class="fab fa-github fa-2x"></i>
                 </a>
-                <a href="https://goo.gl/TLiGyt" title="Google Plus" target="_blank">
+                    <a href="https://goo.gl/TLiGyt" title="Google Plus" target="_blank">
                     <i class="fab fa-google-plus-g fa-2x"></i>
                 </a>
+                </div>
             </div>
         </div>
-    </div>
-</footer> <!-- footer -->
-
-<script src="js/vendor/modernizr-3.5.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-        crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
-
-<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-<script>
-    window.ga = function () {
+    </footer>
+    <!-- footer -->
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script>
+    window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')
+    </script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+    <script>
+    window.ga = function() {
         ga.q.push(arguments)
     };
     ga.q = [];
     ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto');
     ga('send', 'pageview')
-</script>
-<script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 </body>
+
 </html>

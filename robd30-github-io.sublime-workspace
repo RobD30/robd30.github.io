@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"UI_UXJoined_lynda.pdf"
+			],
+			[
+				"Py",
+				"PyJoined_lynda.pdf"
+			],
+			[
+				"J",
+				"JSJoined_lynda.pdf"
+			],
+			[
+				"C",
+				"CSSJoined_lynda.pdf"
+			],
+			[
+				"H",
+				"HTMLEssentialTraining_lynda.pdf"
+			],
+			[
+				"ud",
+				"udacity_nanodegree.pdf"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"me",
+				"messageDisplay"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"squ",
+				"squares"
+			],
+			[
+				"pi",
+				"pickedColor"
+			],
+			[
+				"col",
+				"colorDisplay"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"gene",
+				"generateRandomColors"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"clicked",
+				"clickedColor"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"scor",
+				"scoreLimit"
+			],
+			[
+				"p2",
+				"p2Score"
+			],
+			[
+				"p1",
+				"p1Score"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"p1Score",
+				"p1ScoreDisplay"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"mo",
+				"movies"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ha",
+				"hasWatched"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"dele",
+				"deleteTodo"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"new",
+				"newTodo"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"us",
+				"userNumberSquared"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"age",
+				"ageInDays"
+			],
+			[
+				"user",
+				"userLastName"
+			],
+			[
+				"fir",
+				"userFirstName"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8967,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 11110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 5421,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"GutterColor: Clear Cache"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"bo",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/robd30.github.io",
+		"/D/Projects/robd30.github.io/pdf",
+		"/D/Projects/robd30.github.io/pdf/lynda"
+	],
+	"file_history":
+	[
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/README.rst",
+		"/C/Users/Rob/.bash_profile",
+		"/C/Users/Rob/.bashrc",
+		"/D/Projects/The_Odin_Project/hello-node-express/package.json",
+		"/D/Projects/The_Odin_Project/hello-node-express/.gitignore",
+		"/D/Projects/The_Odin_Project/hello-node-express/README.md",
+		"/D/Projects/The_Odin_Project/hello-node-express/index.js",
+		"/D/Projects/The_Odin_Project/hello-node-express/.babelrc",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/patapat_clone/css/circles.css",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/patapat_clone/js/lib/paper-full.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/patapat_clone/index.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/patapat_clone/paperjs-v0.11.5.zip",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/todo_app/assets/css/todoApp.css",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/todo_app/assets/js/todoApp.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/todo_app/index.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/todo_app/assets/js/lib/jquery-3.3.1.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/advancedjQuery/effect.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/advancedjQuery/effects.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/advancedjQuery/events.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/introToJquery/methods.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/introToJquery/jqueryChallenge.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/introToJquery/challenge.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/introToJquery/jqueryDemo.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_jquery/introToJquery/js/jquery-3.3.1.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsColorGame/colorGame.css",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsColorGame/colorGame.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsColorGame/colorGame.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsTodo/todo.css",
+		"/C/Users/Rob/Downloads/ColorGameSolution - Part 5/colorGame.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsTodo/todo.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsTodo/todo.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsScoreKeeper/scoreKeeper.css",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsScoreKeeper/scoreKeeper.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsScoreKeeper/ScoreKeeper.html",
+		"/C/Users/Rob/Downloads/survivor library.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsadvancedDomManipulation/selector.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsadvancedDomManipulation/toggle.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicDomManipulation/selector.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsObjects/methods.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsObjects/movieDB.js",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/index.html",
+		"/D/Projects/Udemy/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/sayHello.js",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsArray/index.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsArray/answers.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsArray/todo.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/index.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/isEven.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/factorial.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/square.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsFunctions/sayHello.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsControlFlow/guessing.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/jsBasicsControlFlow/forPrinting.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/guessingGame/numberPrinting.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/guessingGame/annoy.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/guessingGame/guessing.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/age_checker/ageChecker.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/age_checker/ageChecker.js",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_js/intro_to_js.sublime-project",
+		"/E/Educational/html5-boilerplate-6.0.1/src/404.html",
+		"/E/Educational/html5-boilerplate-6.0.1/src/index.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/bootstrap/07_Image_Gallery/gallery.md",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/bootstrap/gallery.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/styles.css",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/blog.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/07_ImageBlog1/imageLinks.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/07_ImageBlog1/photos.css",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/tictactoe.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/fonts.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/09_Selector_Exercise_Starter/selectors.css",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/specificity.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/todos.css",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/excercises/selectors.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/todoList.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/aboutMe.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_css/app.css",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/firstPage.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/inputs.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/page2.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/intro-to-html-udemy.sublime-project",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/forms.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/pokemon.html",
+		"/E/Educational/Udemy/Legit/Udemy Web-Dev Boot-Camp/intro_to_html/tables.html",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/index.htm",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/_css/main.css",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/spotlight.htm",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/roux_website.sublime-project",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/_scripts/SpryTabbedPanels.js",
+		"/E/Educational/Lynda/SublimeText3_Basics/roux_website/_scripts/SpryTabbedPanels.css",
+		"/E/Educational/Udemy Web-Dev Boot-Camp/intro_to_html/basicTags.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2979,
+								2979
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"SL.jshint.Highlights.|8d593ca2b769d3b277f122c1973bdc8fc1e1142943c0a5941bedce128013269e|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|49952f5bd5ec23844abe4ded3ec0b69340f6879073930c88e8b73958c8b4453a|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.jshint.Highlights.|79ddbb676367a0150639f3ce991b63cb500b13e3cbdb616f5aef370739794a8c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|86cd5b287e921c6d227899b972f026538f27ff1725c6c5fab54267583c5e14ab|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|4c72080f3d02dc2b3d1817cbd84e98954bc8d4aaebd01fe61f1d13ac871d5aa0|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1012.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1396,
+								1396
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+								"SL.jshint.Highlights.|f69f363533ef4484d7005f72ea13b347799cf1c5d55c3e2923b396508d638499|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|3366716abda84555f9958531f7f3d65fdb88befcc6392fcdf6df059003f317c4|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|1ef3a56436e27114c1b24feae0b713367d80772bbb85c8de65db179df4f2bfe0|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.jshint.Highlights.|e5007725b3a3dcfde33e75b6bf47d9112638b954326ca84b226c5e0b4e1b56ee|region.yellowish markup.warning.sublime_linter|32",
+								"SL.jshint.Highlights.|06a74092bb892741eef358b0b4f49e5de3c91768ee16eab9f2d406005810d80d|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Rob/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3014,
+								3014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1650.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "robd30-github-io.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spot",
+				"spotlight.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
